@@ -1,7 +1,4 @@
-nmp create vite@latest profilesapp -- --template react
-cd profilesapp
-npm install
-npm run dev
+
 
 
 
